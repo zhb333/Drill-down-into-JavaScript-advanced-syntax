@@ -1,4 +1,4 @@
-# 01-深入 JavaScript 运行原理
+# 01 深入 JavaScript 运行原理
 
 :::tip 前端需要掌握的三大技术
 前端开发最主要需要掌握的是三个知识点：HTML、CSS、JavaScript
